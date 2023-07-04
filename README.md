@@ -1,3 +1,4 @@
+# paper title
 ## Requirements
 ### 1. Environment:
 The implementation is based on mmdetection. So the requirements are exactly the same as [mmdetection v2.3.0rc0+8194b16](https://github.com/open-mmlab/mmdetection/tree/v2.3.0). We tested on the following settings:
@@ -12,7 +13,7 @@ With settings above, please refer to [official guide of mmdetection](https://git
 ### 2. Data:
 . Data:
 a. For dataset images:
-# Make sure you are in dir CTHNet
+Make sure you are in dir CTHNet
 mkdir data
 cd data
 mkdir lvis
