@@ -1,4 +1,4 @@
-# paper title
+# CTHNET
 ## Requirements
 ### 1. Environment:
 The implementation is based on mmdetection. So the requirements are exactly the same as [mmdetection v2.3.0rc0+8194b16](https://github.com/open-mmlab/mmdetection/tree/v2.3.0). We tested on the following settings:
